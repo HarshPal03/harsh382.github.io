@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Harsh Pal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Harsh Pal"
+name                     : "Harsh"
 description              : "Deep Learning Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
